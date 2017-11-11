@@ -1,0 +1,19 @@
+# Arithmetic operation
+# Addition: 3 + 4
+# Subtraction: 3 - 2
+# Multiplication: 3 * 2
+# Division: 3 / 2
+# Floor Division: 3 //2
+# Exponent: 3 ** 2
+# Modulus: 3%2
+
+# Comparisons:
+# Equal: 3 == 2
+# Not Equal: 3 != 2
+# Greater than: 3 > 2
+# Less than: 3 < 2
+# Greater or Equal: 3 >= 2
+# Less or Equal: 3 <= 2
+
+# Object Identity: is
+# Operation: and or not

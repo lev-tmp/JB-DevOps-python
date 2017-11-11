@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JB-DevOps-python.iml" filepath="$PROJECT_DIR$/.idea/JB-DevOps-python.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/DevOps_JB/python-getting-started/external_ex/.idea/external_ex.iml" filepath="$USER_HOME$/Documents/DevOps_JB/python-getting-started/external_ex/.idea/external_ex.iml" />
+    </modules>
+  </component>
+</project>
