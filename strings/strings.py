@@ -1,5 +1,5 @@
-# Strings explanation :
-#
+# Strings explanation ,  Text Processing Services
+# https://docs.python.org/3/library/string.html
 
 # 1) First print
 # print("Hello World")
