@@ -1,0 +1,16 @@
+on linux machine pip for python 2 , python3 pip3 :
+ - sudo apt-get install python-pip/python3-pip
+ - pip/pip3 help
+ - pip/pip3 search Pympler
+ - pip/pip3 install Pympler
+ - pip/pip3 list
+ - pip/pip3 uninstall Pympler
+ - pip list -o
+ - pip install -U <package name>
+ ==
+ - pip freeze (for example : pip freeze > requirements.txt)
+ - pip install -r requirements.txt (install packages from file)
+
+ ==
+ Bonus, upgrade all :
+ pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U
