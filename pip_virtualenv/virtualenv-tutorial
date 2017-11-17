@@ -1,0 +1,15 @@
+virtualenv - you can separete differnt python environments
+
+- pip/pip3 install virtualenv
+- mkdir Environment
+- virtualenv project1_env/ (/home/ubuntu/.local/bin/virtualenv ?)
+- cd project1_env/
+- source bin/activate
+Let's install some packages :
+
+- pip install numpy
+- pip install pytz
+- pip install psutil
+- pip freeze --local > ../requirments_proj1.txt
+- rm -rf project1_env/
+Let's create second project with different version of python and install modules
