@@ -1,9 +1,13 @@
 # By: Lev Epshtein
-# Programm take txt file as argument count number of occurences and print histobar with number
+# Programm take txt file as argument count number of occurrences and print histo bar chart with number.
 
 import sys
 
-file_name = sys.argv[1]
+## via arguments :
+# file_name = sys.argv[1]
+## via console :
+file_name = input("Please insert file name to work with: ")
+
 alpha_statistic = {}
 
 def print_dictionary(dic, file_name):
