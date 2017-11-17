@@ -1,9 +1,10 @@
 # import my_module
-#
-#
+# from my_module import find_index, test
+
 # list_1 = ['History', 'Math', 'Physics', 'CompSci']
-#
+
 # index = my_module.find_index(list_1,'Math')
+# index = find_index(list_1,'Math')
 # print(index)
 
 
