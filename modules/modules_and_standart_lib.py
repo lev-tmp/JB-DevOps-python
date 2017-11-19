@@ -1,5 +1,5 @@
 # import sys
-# sys.path.append('/Users/lev/PycharmProjects/JB-DevOps-python/modules/custom_modules')
+# sys.path.append('/Users/lev/PycharmProjects/JB-DevOps-python/modules/custom_modules') # change for specific machine
 # import my_module
 # from my_module import find_index, test
 
