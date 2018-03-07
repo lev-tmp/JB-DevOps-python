@@ -7,9 +7,9 @@
 #     print('Conditional was True')
 
 # 1 with var
-# language = 'Python'
-# if language == 'Python':
-#     print('Conditional was True')
+language = 'Python'
+if language == 'Python':
+    print('Conditional was True')
 
 # Comparisons:
 # Equal:            ==
