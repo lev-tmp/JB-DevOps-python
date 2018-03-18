@@ -7,7 +7,8 @@
 # print(p(4))
 # print(type(p))
 
-# lambda function general syntax :  y = lambda x: x ** 2
+# lambda function general syntax :
+# y = lambda x: x ** 2
 # print(y(4))
 # print(y)
 
@@ -22,3 +23,14 @@
 #
 # print (b(2))
 # print(c(2))
+
+# Another example build quadratic functions
+def build_quadratic_runction(a, b, c):
+    """Returns the function f(x)=ax^2 + bx + c"""
+    return lambda x: a*x**2 + b*x + c
+
+f = build_quadratic_runction(2, 3, -5)
+
+print(f(0))
+print(f(1))
+print(f(2))
