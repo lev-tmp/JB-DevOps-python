@@ -17,10 +17,10 @@
 # f = open('test.txt ','r')
 
 ## Let's handle this with general exception
-# try:
-#     f = open('test.txt','r')
-# except Exception:
-#     print("Sorry this file isn't exist!")
+try:
+    f = open('te2st.txt','r')
+except Exception:
+    print("Sorry this file isn't exist!")
 
 ## Let's handle it with specific exeption
 # try:

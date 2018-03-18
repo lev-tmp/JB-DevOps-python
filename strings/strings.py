@@ -5,8 +5,8 @@
 # print("Hello World")
 
 # 2 with variable
-# message = "Hello World"
-# print(message)
+message = "Hello World"
+print(message)
 
 # 3 double with single quotes
 # message = "Hello guy's havn't beer yet"
