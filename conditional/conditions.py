@@ -30,14 +30,14 @@
 #     print('No match')
 
 ## 3 elif
-# language = 'Python'
-#
-# if language == 'Python':
-#     print('language is python')
-# elif language == 'Java':
-#     print('language is java')
-# else:
-#     print('No match')
+language = 'Python'
+
+if language == 'Python':
+    print('language is python')
+elif language == 'Java':
+    print('language is java')
+else:
+    print('No match')
 
 ## 4 and , or , not operation
 
