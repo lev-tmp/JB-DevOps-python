@@ -34,9 +34,9 @@
 #####
 
 # Advanced topic, function with args and kwargs
-# def student_info(*args, **kwargs):
-#     print(args)
-#     print(kwargs)
+def student_info(*args, **kwargs):
+    print(args)
+    print(kwargs)
 #
 # student_info('Math', 'Art', name='Jhon', age=22)
 #
